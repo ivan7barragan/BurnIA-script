@@ -1,1 +1,9 @@
-"En función del análisis automatizado, se han detectado tres quemaduras con un nivel de confianza alto: dos de tercer grado (0,78 y 0,92). Dada la gravedad de estas lesiones, se recomienda un enfoque médico inmediato y agresivo para prevenir complicaciones. Es fundamental una atención intensiva en un centro hospitalario especializado en quemados, donde se puedan realizar evaluaciones exhaustivas y recibir tratamiento adecuado para reducir el riesgo de secuelas y mejoras la probabilidad de recuperación."
+Basándome en la información proporcionada, se han detectado tres quemaduras de 1er grado, lo que significa que solo afectan a la piel superficialmente y no comprometen los tejidos subcutáneos ni internos.
+
+En consecuencia, mi recomendación médica es:
+
+**Tratamiento conservador**: No es necesario el uso de tetraciclina o otros antibióticos en este caso. Se recomienda aplicar crema o gel hidratante suave para mantener la piel húmeda y promover la curación rápida. Es importante mantener la área afectada limpia y seca para evitar infecciones secundarias.
+
+En caso de dolor o incomodidad, se puede administrar acetaminofeno o ibuprofeno según sea necesario.
+
+Es fundamental realizar un seguimiento médico en las próximas 24-48 horas para verificar el progreso de la curación y detectar cualquier complicación posible.
